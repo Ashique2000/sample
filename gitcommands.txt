@@ -1,0 +1,18 @@
+
+git init [initializing git repository] 
+
+git status [ list all untracked files]
+
+git add -A [adding all changes to staging Area]
+
+git commit -m "message" [ staged files to local repository]
+
+git remote add service https://github.com/luminartechnolabkochi/ServiceGuru.git
+
+git push remotename branch [ local repository changes remote repository]
+
+git pull [remote repo changes local repo]
+
+git clone [remote repository exact copy localrepository]
+
+https://github.com/Ashique2000/sample.git
